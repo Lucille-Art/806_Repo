@@ -1,0 +1,338 @@
+,Scientific Names,CommonName,Region,Country,Average_Weight,DielActivity,Locomotion,Status,HomeRange_ha,Habitat_Forest,Habitat_Savanna,Habitat_Shrubland,Habitat_Grassland,Habitat_Wetlands,Habitat_Rocky areas,Habitat_Desert,TrophicGuild,Fruit,Leaves,Flowers,Seeds,Gums,Nectar,Animal,Insects,Other
+0,Hylobatidae Hylobates,Agile Gibbon,South East Asia,Indonesia,6.0,D,AR,3,29.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+1,Cercopithecidae Cercocebus,Agile Mangabey,North West Africa,CÃ´te dÂIvoire,7.58,D,BOTH,0,303.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Atelidae Alouatta,Amazon Black Howler,South America,Brazil,6.45,D,AR,0,25.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Aotidae Aotus,Andean Night Monkey,South America,Brazil,0.8,N,AR,2,1.23,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+4,Lepilemuridae Lepilemur,Andohahela Sportive Lemur,Madagascar,Madagascar,0.89,N,AR,4,5.16,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+5,Cercopithecidae Colobus,Angolan Colobus,Central Africa,Rwanda,8.6,D,AR,0,371.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+6,Lepilemuridae Lepilemur,Ankarana Sportive Lemur,Madagascar,Madagascar,0.77,N,AR,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Cercopithecidae Macaca,Arunachal Macaque,South East Asia,India,15.0,D,BOTH,3,26.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+8,Cercopithecidae Piliocolobus,Ashy Red Colobus,Central Africa,Uganda,8.75,D,AR,3,308.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,Cercopithecidae Macaca,Assamese Macaque,South East Asia,Thailand,9.0,D,AR,1,433.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Daubentoniidae Daubentonia,Aye aye,Madagascar,Madagascar,2.56,N,AR,3,102.95,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+11,Aotidae Aotus,Azara s Night Monkey,South America,Colombia,1.21,CA,AR,0,7.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Pitheciidae Cacajao,Bald Uacari,South America,Brazil,3.17,D,AR,2,493.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+13,Cercopithecidae Chlorocebus,Bale Monkey,East Africa,Ethiopia,3.98,D,BOTH,2,15.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+14,Cercopithecidae Presbytis,Banded Langur,South East Asia,Indonesia,6.22,D,AR,1,24.85,1.0,0.0,0.0,1.0,1.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,Cercopithecidae Macaca,Barbary Macaque,North Africa,Morocco,13.5,D,BOTH & T,3,725.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+16,Cebidae Sapajus,Bearded Capuchin,South America,Brazil,2.54,D,AR,0,300.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Indriidae Avahi,Bemaraha Woolly Lemur,Madagascar,Madagascar,1.03,N,AR,3,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Cercopithecidae Semnopithecus,Bengal Sacred Langur,South East Asia,India,11.44,D,T,0,82.5,1.0,1.0,1.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+19,Lorisidae Nycticebus,Bengal Slow Loris,South East Asia,India,1.26,N,AR,2,15.6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,Galagidae Sciurocheirus,Bioko Squirrel Galago,West Africa,Angola,0.27,N,AR,3,2.35,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,Pitheciidae Chiropotes,Black Bearded Saki,Central America,Surinam,3.03,D,AR,4,58.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Cercopithecidae Colobus,Black Colobus,North West Africa,Cameroon,8.91,D,AR,2,573.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+23,Lemuridae Eulemur,Black Lemur,Madagascar,Madagascar,2.063333333333333,CA,AR,2,19.1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,Callitrichidae Leontopithecus,Black Lion Tamarin,South America,Brazil,0.615,D,AR,3,138.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0
+25,Atelidae Ateles,Black Spider Monkey,South America,Bolivia,9.37,D,AR,3,192.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+26,Lemuridae Varecia,Black and white Ruffed Lemur,Madagascar,Madagascar,3.58,D,AR,4,116.67,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,Cebidae Saimiri,Black capped Squirrel Monkey,South America,Brazil,0.88,D,AR,0,375.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Cercopithecidae Presbytis,Black crested Sumatran Langur,South East Asia,Indonesia,6.53,D,AR,3,22.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,Callitrichidae Leontopithecus,Black faced Lion Tamarin,South America,Peru,0.58,D,AR,4,345.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+30,Aotidae Aotus,Black headed Night Monkey,South America,Brazil,0.96,N,AR,0,10.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,Cebidae Saimiri,Black headed Squirrel Monkey,South America,Guiana,0.8,D,AR,2,80.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,Cebidae Sapajus,Black horned Capuchin,South America,Brazil,3.7,D,AR,1,161.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+33,Callitrichidae Leontocebus,Black mantled tamarin,Central America,Ecuador,0.48,D,AR,0,49.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,Cercopithecidae Pygathrix,Black shanked Douc,South East Asia,Vietnam,9.88,D,AR,3,30.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+35,Callitrichidae Mico,Black tailed Marmoset,South America,Brazil,0.22,D,AR,0,429.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,Callitrichidae Callithrix,Black tufted ear Marmoset,South America,Brazil,0.33,D,AR,0,12.8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+37,Cebidae Sapajus,Blond Capuchin,South America,Brazil,2.55,D,AR,4,51.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+38,Pitheciidae Callicebus,Blond Titi,South America,Brazil,1.15,D,AR,4,50.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+39,Cercopithecidae Cercopithecus,Blue Monkey,South Africa,South Africa,4.89,D,AR,0,175.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+40,Lemuridae Eulemur,Blue eyed Black Lemur,Madagascar,Madagascar,1.82,CA,AR,4,5.28,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,Cercopithecidae Macaca,Bonnet Macaque,South East Asia,Indonesia,5.14,D,BOTH,0,26.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+42,Hominidae Pan,Bonobo,West Africa,Congo,39.1,D,BOTH,3,4000.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+43,Cercopithecidae Macaca,Booted Macaque,South East Asia,Indonesia,3.95,D,BOTH,2,57.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+44,Hominidae Pongo,Bornean Orangutan,South East Asia,Borneo,57.15,D,AR,4,409.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+45,Hylobatidae Hylobates,Bornean White bearded Gibbon,South East Asia,Borneo,5.95,D,AR,3,53.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+46,Atelidae Alouatta,Brown Howler,South America,Brazil,5.54,D,AR,0,26.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+47,Lemuridae Eulemur,Brown Lemur,Madagascar,Madagascar,2.05,CA,AR,1,16.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+48,Pitheciidae Plecturocebus,Brown Titi,South America,Peru,0.83,D,AR,0,3.9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+49,Aotidae Aotus,Brumback s Night Monkey,South America,Colombia,0.67,N,AR,2,17.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,Pitheciidae Pithecia,Buffy Saki,South America,Brazil,3.0,D,AR,0,172.4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+51,Callitrichidae Callithrix,Buffy headed Marmoset,South America,Brazil,0.43,D,AR,3,35.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+52,Callitrichidae Callithrix,Buffy tufted ear Marmoset,South America,Brazil,0.44,D,AR,2,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0
+53,Lorisidae Arctocebus,Calabar Angwantibo,West Africa,Congo,0.31,N,AR,0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+54,Cercopithecidae Cercopithecus,Campbell s Monkey,North West Africa,CÃ´te dÂIvoire,3.6,D,AR,0,72.375,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+55,Cercopithecidae Trachypithecus,Capped Langur,South East Asia,Bangladesh,10.93,D,AR,2,18.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,Cercopithecidae Trachypithecus,Cat Ba Langur,South East Asia,Vietnam,8.05,D,BOTH,4,30.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,Atelidae Alouatta,Central American Black Howler,Central America,Belize,6.56,D,AR,3,16.86,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+58,Atelidae Ateles,Central American Spider Monkey,Central America,Ecuador,7.54,D,AR,3,388.09714285714284,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+59,Cebidae Saimiri,Central American Squirrel Monkey,Central America,Panama,0.79,D,AR,2,176.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,Cercopithecidae Papio,Chacma Baboon,South Africa,Lesotho,22.3,D,T,0,500.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,Omnivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+61,Cercopithecidae Semnopithecus,Chamba Sacred Langur,South East Asia,India,20.15,D,BOTH,3,305.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,Hominidae Pan,Chimpanzee,North West Africa,Guinea,53.7,D,BOTH,3,1846.7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+63,Atelidae Alouatta,Colombian Red Howler,South America,Colombia,5.92,D,AR,0,22.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+64,Cebidae Cebus,Colombian White faced Capuchin,South America,Brazil,3.11,D,AR,0,59.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+65,Callitrichidae Callithrix,Common Marmoset,South America,Brazil,0.32,D,AR,0,2.2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0
+66,Pitheciidae Plecturocebus,Coppery Titi,South America,Peru,1.07,D,AR,0,25.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+67,Cheirogaleidae Mirza,Coquerel s Giant Mouse Lemur,Madagascar,Madagascar,0.31,N,AR,3,2.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,Indriidae Propithecus,Coquerel s Sifaka,Madagascar,Madagascar,3.73,D,AR,3,7.625,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,Callitrichidae Saguinus,Cotton top Tamarin,South America,Brazil,0.41,D,AR,4,13.9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70,Cebidae Sapajus,Crested Capuchin,South America,Brazil,3.05,D,AR,3,110.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0
+71,Cercopithecidae Macaca,Crested Macaque,South East Asia,Indonesia,7.68,D,T,4,216.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+72,Galagidae Sciurocheirus,Cross River Squirrel Galago,North West Africa,Cameroon,0.27,N,AR,0,3.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+73,Lemuridae Eulemur,Crowned Lemur,Madagascar,Madagascar,1.65,CA,AR,3,7.53,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,Cercopithecidae Cercopithecus,Crowned Monkey,North West Africa,CÃ´te dÂIvoire,3.58,D,AR,2,100.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,Indriidae Propithecus,Crowned Sifaka,Madagascar,Madagascar,3.9,D,AR,3,1.35,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,Cercopithecidae Cercopithecus,De Brazza s Monkey,North West Africa,Benine,5.74,D,BOTH,0,7.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+77,Cercopithecidae Trachypithecus,Delacour s Langur,South East Asia,Vietnam,7.75,D,BOTH & AR,4,36.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,Galagidae Galagoides,Demidoff s Dwarf Galago,East Africa,Kenya,0.06,N,AR,0,1.6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,Indriidae Propithecus,Diademed Sifaka,Madagascar,Madagascar,6.13,D,AR,4,37.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+80,Tarsiidae Tarsius,Dian s Tarsier,South East Asia,Indonesia,0.11199999999999999,N,AR,2,1.39,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+81,Cercopithecidae Cercopithecus,Diana Monkey,North West Africa,CÃ´te dÂIvoire,4.5,D,AR,2,63.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+82,Cercopithecidae Mandrillus,Drill,North West Africa,Cameroon,15.0,D,BOTH,3,2750.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+83,Cercopithecidae Cercopithecus,Dryas Monkey,North West Africa,CÃ´te dÂIvoire,2.65,D,BOTH,4,4.9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+84,Cercopithecidae Trachypithecus,Dusky Langur,South East Asia,Bangladesh,6.99,D,AR,1,30.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,Hylobatidae Hylobates,East Bornean Gray Gibbon,South East Asia,Borneo,5.5,D,AR,3,38.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+86,Hominidae Gorilla,Eastern Gorilla,West Africa,Congo,130.0,D,BOTH,4,3060.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+87,Hylobatidae Hoolock,Eastern Hoolock Gibbon,East Asia,China,7.2,D,AR,2,93.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+88,Indriidae Avahi,Eastern Woolly Lemur,Madagascar,Madagascar,1.17,N,AR,2,1.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,Cebidae Cebus,Ecuadorian White fronted Capuchin,South America,Brazil,2.19,D,AR,4,288.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,Callitrichidae Saguinus,Emperor Tamarin,South America,Colombia,0.47,D,AR,0,30.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,Cheirogaleidae Cheirogaleus,Fat tailed Dwarf Lemur,Madagascar,Madagascar,0.17666666666666667,N,AR,0,1.56,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,Cercopithecidae Trachypithecus,Francois s Langur,East Asia,China,7.52,D,BOTH,3,64.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+93,Galagidae Sciurocheirus,Gabon Squirrel Galago,West Africa,Gabon,0.26,N,AR,0,30.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+94,Cercopithecidae Theropithecus,Gelada,East Africa,Ethiopia,15.35,D,T,0,203.43,0.0,0.0,0.0,1.0,0.0,1.0,0.0,Folivore,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+95,Callitrichidae Leontocebus,Geoffroy s Saddle back Tamarin,South America,Peru,0.36,D,AR,0,40.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+96,Callitrichidae Saguinus,Geoffroy s Tamarin,Central America,Panama,0.49,D,AR,0,34.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0
+97,Callitrichidae Callithrix,Geoffroy s Tufted ear Marmoset,South America,Brazil,0.24,D,AR,0,23.3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0
+98,Cercopithecidae Trachypithecus,Germain s Langur,South East Asia,Thailand,8.83,D,AR,3,17.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,Callitrichidae Callimico,Goeldi s Monkey*,South America,Bolivia,0.48,D,AR,2,150.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+100,Lemuridae Hapalemur,Golden Bamboo Lemur,Madagascar,Madagascar,1.45,D,AR,4,26.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+101,Cercopithecidae Trachypithecus,Golden Langur,South East Asia,India,10.15,D,AR,3,375.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+102,Callitrichidae Leontopithecus,Golden Lion Tamarin,South America,Brazil,0.64,D,AR,3,147.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+103,Cercopithecidae Rhinopithecus,Golden Snub nosed Monkey,East Asia,China,14.75,D,BOTH,3,1830.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+104,Cebidae Saimiri,Golden backed Squirrel Monkey,South America,Brazil,0.86,D,AR,1,50.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+105,Cheirogaleidae Microcebus,Golden brown Mouse Lemur,Madagascar,Madagascar,0.05,N,AR,3,0.57,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0
+106,Pitheciidae Pithecia,Golden faced Saki,South America,Brazil,1.9,D,AR,0,103.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,Callitrichidae Leontopithecus,Golden headed Lion Tamarin,South America,Peru,0.58,D,AR,3,125.1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+108,Callitrichidae Leontocebus,Golden mantled Saddle back Tamarin,South America,Peru,0.4,D,AR,1,18.5,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Omnivore,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+109,Cheirogaleidae Microcebus,Goodman s Mouse Lemur,Madagascar,Madagascar,0.045,N,AR,2,0.35,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,Lemuridae Hapalemur,Gray Bamboo Lemur,Madagascar,Madagascar,0.8233333333333333,D,AR,2,20.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+111,Cheirogaleidae Microcebus,Gray Mouse Lemur,Madagascar,Madagascar,0.06,N,AR,0,1.75,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+112,Lorisidae Loris,Gray Slender Loris,South East Asia,India,0.27,N,BOTH & AR,0,27.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0
+113,Atelidae Lagothrix,Gray Woolly Monkey,South America,Brazil,8.31,D,AR,3,1021.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+114,Cheirogaleidae Microcebus,Gray brown Mouse Lemur,Madagascar,Madagascar,0.05,N,AR,0,0.3,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+115,Cercopithecidae Lophocebus,Gray cheeked Mangabey,Central Africa,Uganda,6.95,D,AR,0,167.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,Pitheciidae Pithecia,Gray s Bald faced Saki,South America,Colombia,2.16,D,AR,0,35.9,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+117,Lemuridae Prolemur,Greater Bamboo Lemur,Madagascar,Madagascar,2.24,CA,AR,4,40.37,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+118,Cheirogaleidae Cheirogaleus,Greater Dwarf Lemur,Madagascar,Madagascar,0.51,N,AR,3,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,Cercopithecidae Chlorocebus,Green Monkey,North West Africa,Senegal,4.3,D,T,0,160.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+120,Cercopithecidae Pygathrix,Grey shanked Douc,South East Asia,Vietnam,9.98,D,AR,4,984.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,Cercopithecidae Chlorocebus,Grivet Monkey,East Africa,Ethiopia,4.65,D,T,0,54.30400000000001,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+122,Cercopithecidae Colobus,Guereza,North West Africa,Cameroon,8.89,D,AR,0,15.45,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+123,Pitheciidae Chiropotes,Guianan Beared Saki,South America,Brazil,3.0,D,AR,5,507.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+124,Cebidae Sapajus,Guianan Brown Capuchin,South America,Venezuela,3.01,D,AR,0,355.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+125,Atelidae Alouatta,Guianan Red Howler,South America,Brazil,6.37,D,AR,0,45.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+126,Cebidae Saimiri,Guianan Squirrel Monkey,Central America,Surinam,0.82,D,AR,0,87.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+127,Cebidae Cebus,Guianan Weeper Capuchin,South America,Colombia,2.88,D,AR,0,257.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+128,Cercopithecidae Papio,Guinea Baboon,North West Africa,Senegal,17.5,D,BOTH & T,1,3250.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0
+129,Cercopithecidae Rhinopithecus,Guizhou Snub nosed Monkey,East Asia,China,11.25,D,BOTH,3,3450.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,Hylobatidae Nomascus,Hainan Crested Gibbon,East Asia,China,6.59,D,AR,4,781.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+131,Cheirogaleidae Allocebus,Hairy eared Dwarf Lemur,Madagascar,Madagascar,0.08,N,AR,2,25.75,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+132,Cercopithecidae Papio,Hamadryas Baboon,East Africa,Ethiopia,13.4,D,T,0,2800.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+133,Cercopithecidae Trachypithecus,Hatinh Langur,South East Asia,Vietnam,7.275,D,BOTH & AR,3,225.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+134,Cercopithecidae Macaca,Heck s Macaque,South East Asia,India,9.0,D,AR,2,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,Cercopithecidae Presbytis,Hose s Langur,South East Asia,Indonesia,5.9,D,AR,2,40.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+136,Aotidae Aotus,Humboldt s Night Monkey,South America,Paraguay,0.77,N,AR,0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+137,Cebidae Saimiri,Humboldt s Squirrel Monkey,South America,Brazil,0.88,D,AR,0,170.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+138,Cebidae Cebus,Humboldt s White fronted Capuchin,South America,Brazil,2.74,D,BOTH,0,115.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,Atelidae Lagothrix,Humboldt s Woolly Monkey,South America,Colombia,7.15,D,AR,2,440.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+140,Callitrichidae Leontocebus,Illiger s Saddle back Tamarin,South America,Peru,0.29,D,AR,0,16.1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+141,Cercopithecidae Trachypithecus,Indochinese Gray Langur,South East Asia,India,6.65,D,AR,3,83.55,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+142,Indriidae Indri,Indri,Madagascar,Madagascar,6.34,D,AR,4,18.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+143,Cercopithecidae Macaca,Japanese Macaque,East Asia,Japan,9.5,D,BOTH & AR,0,23.95,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+144,Cercopithecidae Presbytis,Javan Langur,South East Asia,Indonesia,6.7,D,AR,3,26.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+145,Lorisidae Nycticebus,Javan Slow Loris,South East Asia,Java,0.66,N,AR,4,7.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+146,Cebidae Cebus,Ka apor Capuchin,South America,Brazil,2.7,D,AR,4,62.4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0
+147,Galagidae Galagoides,Kenya Coast Dwarf Galago,East Africa,Kenya,0.14,N,AR,0,1.95,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+148,Cercopithecidae Colobus,King Colobus,North West Africa,Cameroon,9.1,D,AR,2,40.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+149,Cercopithecidae Rungwecebus,Kipunji,East Africa,Tanzania,10.0,D,AR,4,306.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+150,Hylobatidae Hylobates,Kloss s Gibbon,South East Asia,Indonesia,5.8,D,AR,3,33.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+151,Cercopithecidae Allochrocebus,L Hoest s Monkey,West Africa,Congo,5.0,D,T,2,116.6,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Omnivore,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+152,Lemuridae Hapalemur,Lac Alaotra Bamboo Lemur,Madagascar,Madagascar,1.24,CA,AR,4,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Folivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+153,Hylobatidae Hylobates,Lar Gibbon,South East Asia,Indonesia,5.64,D,AR,3,55.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,Cebidae Sapajus,Large headed Capuchin,South America,Brazil,3.05,D,AR,0,65.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+155,Aotidae Aotus,Lemurine Night Monkey,South America,Colombia,0.89,N,AR,2,4.35,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,Cercopithecidae Macaca,Lion tailed Macaque,South East Asia,India,7.5,D,AR,3,125.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+157,Cercopithecidae Macaca,Long tailed Macaque,South East Asia,Indonesia,4.03,D,BOTH & AR,0,157.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+158,Cercopithecidae Cercopithecus,Lowe s Monkey,West Africa,Congo,3.9,D,AR,0,14.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+159,Aotidae Aotus,Ma s Night Monkey,South America,Brazil,0.79,N,AR,2,9.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+160,Cheirogaleidae Microcebus,Madame Berthe s Mouse Lemur,Madagascar,Madagascar,0.03,N,AR,3,3.7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+161,Pitheciidae Plecturocebus,Madidi Titi,South America,Bolivia,0.95,D,AR,0,21.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+162,Cercopithecidae Semnopithecus,Malabar Sacred Langur,South East Asia,India,13.1,D,BOTH & T,2,12328.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+163,Cercopithecidae Mandrillus,Mandrill,West Africa,Gabon,23.6,D,T,2,4000.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+164,Atelidae Alouatta,Mantled Howler,South America,Brazil,6.12,D,AR,0,40.45,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+165,Cercopithecidae Presbytis,Maroon Langur,South East Asia,Malaysia,6.13,D,AR,0,66.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+166,Callitrichidae Saguinus,Martin s Bare faced Tamarin,South America,Brazil,0.5,D,AR,0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+167,Pitheciidae Callicebus,Masked Titi,South America,Brazil,1.32,D,AR,2,11.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+168,Cercopithecidae Presbytis,Mentawai Langur,South East Asia,Indonesia,6.27,D,AR,3,25.25,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+169,Callitrichidae Saguinus,Midas Tamarin,South America,Guiana,0.56,D,AR,0,36.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+170,Lorisidae Perodicticus,Milne Edwards s Potto,North West Africa,Senegal,1.19,N,AR,0,23.2,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+171,Indriidae Propithecus,Milne Edwards s Sifaka,Madagascar,Madagascar,5.74,D,AR,3,145.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+172,Lepilemuridae Lepilemur,Milne Edwards s Sportive Lemur,Madagascar,Madagascar,0.93,N,AR,3,1.09,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+173,Cercopithecidae Piliocolobus,Miss Waldron s Red Colobus,North West Africa,CÃ´te dÂIvoire,5.9,D,AR,4,120.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+174,Cercopithecidae Presbytis,Mitered Langur,South East Asia,Indonesia,5.8,D,AR,3,21.75,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,Lepilemuridae Lepilemur,Mittermeier s Sportive Lemur,Madagascar,Madagascar,0.86,N,AR,3,3.6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+176,Hylobatidae Hylobates,Moloch Gibbon,South East Asia,Indonesia,6.42,D,AR,3,17.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+177,Cercopithecidae Cercopithecus,Mona Monkey,North West Africa,Benine,4.05,D,AR,0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+178,Lemuridae Eulemur,Mongoose Lemur,Madagascar,Madagascar,1.48,CA,AR,4,2.85,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+179,Cercopithecidae Macaca,Moor Macaque,South East Asia,India,7.88,D,BOTH,3,20.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,Callitrichidae Saguinus,Mottled face Tamarin,South America,Colombia,0.69,D,AR,0,35.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+181,Cercopithecidae Cercopithecus,Moustached Monkey,North West Africa,CÃ´te dÂIvoire,3.48,D,AR,0,44.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+182,Galagidae Galagoides,Mozambique Dwarf Galago,South Africa,Mozambique,0.134,N,AR,0,2.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,Callitrichidae Saguinus,Mustached Tamarin,South America,Peru,0.53,D,AR,0,40.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+184,Cercopithecidae Semnopithecus,Nepal Sacred Langur,South East Asia,Bangladesh,17.0,D,BOTH,0,6987.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+185,Cercopithecidae Semnopithecus,Nilgiri Langur,East Asia,China,11.6,D,AR,2,4.83,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+186,Lemuridae Hapalemur,Northern Bamboo Lemur,Madagascar,Madagascar,1.013,CA,AR,2,26.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+187,Cercopithecidae Lophocebus,Northern Black Crested Mangabey,West Africa,Congo,6.8,D,AR,1,59.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+188,Cheirogaleidae Mirza,Northern Giant Mouse Lemur,Madagascar,Madagascar,0.29,N,AR,3,1.66,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+189,Galagidae Galago,Northern Lesser Galago,West Africa,Congo,0.25,N,AR,0,6.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+190,Atelidae Brachyteles,Northern Muriqui,South America,Brazil,9.0,D,AR,4,309.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+191,Galagidae Euoticus,Northern Needle clawed Galago,North West Africa,Nigeria,0.253,N,AR,0,2.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+192,Cercopithecidae Macaca,Northern Pig tailed Macaque,South East Asia,India,6.7,D,BOTH & AR,2,215.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+193,Cercopithecidae Miopithecus,Northern Talapoin Monkey,West Africa,Gabon,1.25,D,BOTH,0,300.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+194,Hylobatidae Nomascus,Northern White cheeked Crested Gibbon,South East Asia,Laos,6.5,D,AR,4,87.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+195,Hylobatidae Nomascus,Northern Yellow cheeked Crested Gibbon,South East Asia,Laos,7.0,D,AR,5,50.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+196,Pitheciidae Plecturocebus,Olalla s Titi,South America,Bolivia,0.8,D,AR,3,10.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+197,Cercopithecidae Papio,Olive Baboon,Central Africa,Uganda,16.65,D,BOTH,0,1968.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0
+198,Cercopithecidae Procolobus,Olive Colobus,North West Africa,CÃ´te dÂIvoire,4.45,D,AR,1,31.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+199,Pitheciidae Plecturocebus,Ornate Titi,South America,Bolivia,1.17,D,AR,2,15.93,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+200,Cheirogaleidae Phaner,Pale Fork marked Lemur,Madagascar,Madagascar,0.34,N,AR,3,6.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0
+201,Pitheciidae Plecturocebus,Pale Titi,South America,Bolivia,0.8,D,AR,0,20.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+202,Cercopithecidae Presbytis,Pale thighed Langur,South East Asia,Malaysia,7.65,D,AR,1,24.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+203,Aotidae Aotus,Panamanian Night Monkey,South America,Peru,0.9,N,AR,3,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+204,Cebidae Cebus,Panamanian White faced Capuchin,South America,Colombia,3.22,D,AR,0,134.4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+205,Atelidae Alouatta,Paraguayan Howler,South America,Brazil,5.38,D,AR,0,1.95,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+206,Cercopithecidae Erythrocebus,Patas Monkey,East Africa,Kenya,9.45,D,T,0,2851.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+207,Tarsiidae Tarsius,Peleng Tarsier,South East Asia,Indonesia,0.16,N,AR,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+208,Cercopithecidae Piliocolobus,Pennant s Red Colobus,West Africa,Congo,7.4,D,AR,3,73.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+209,Indriidae Propithecus,Perrier s Sifaka,Madagascar,Madagascar,4.33,D,AR,4,30.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+210,Atelidae Lagothrix,Peruvian Yellow tailed Woolly Monkey,South America,Peru,7.25,D,AR,4,114.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+211,Lepilemuridae Lepilemur,Petter s Sportive Lemur,Madagascar,Madagascar,0.62,N,AR,2,0.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+212,Indriidae Avahi,Peyrieras s Woolly Lemur,Madagascar,Madagascar,1.08,N,AR,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+213,Cercopithecidae Trachypithecus,Phayre s Langur,South East Asia,India,7.44,D,AR,3,82.37,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+214,Lorisidae Nycticebus,Philippine Slow Loris,South East Asia,Philipines,0.285,N,AR,2,4.76,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+215,Tarsiidae Carlito,Philippine Tarsier,South America,Brazil,0.13,N,AR,1,4.4030000000000005,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+216,Callitrichidae Saguinus,Pied Tamarin,South America,Brazil,0.43,D,AR,3,12.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+217,Cercopithecidae Simias,Pig tailed Langur,South East Asia,Indonesia,7.97,D,BOTH,4,7.1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+218,Hylobatidae Hylobates,Pileated Gibbon,South East Asia,Indonesia,5.47,D,AR,3,36.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+219,Atelidae Lagothrix,Poeppig s Woolly Monkey,Central America,Ecuador,7.25,D,AR,2,116.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+220,Cercopithecidae Piliocolobus,Preuss s Red Colobus,North West Africa,Cameroon,8.3,D,AR,4,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+221,Cercopithecidae Nasalis,Proboscis Monkey,South East Asia,Indonesia,15.75,D,AR,3,900.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+222,Cercopithecidae Semnopithecus,Purple faced Langur,South East Asia,India,7.03,D,AR,3,5.375,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+223,Cercopithecidae Cercopithecus,Putty nosed Monkey,North West Africa,Benine,5.46,D,AR,0,80.25,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+224,Callitrichidae Cebuella,Pygmy Marmoset,Central America,Ecuador,0.12,D,AR,0,0.34,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+225,Lorisidae Nycticebus,Pygmy Slow Loris,South East Asia,Borneo,0.42,N,AR,2,17.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+226,Lemuridae Varecia,Red Ruffed Lemur,Madagascar,Madagascar,3.51,D,AR,4,24.55,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+227,Lorisidae Loris,Red Slender Loris,South East Asia,Sri Lanka,0.19,N,AR,3,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+228,Lemuridae Eulemur,Red bellied Lemur,Madagascar,Madagascar,2.015,CA,AR,2,19.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+229,Callitrichidae Saguinus,Red bellied Tamarin,South America,Bolivia,0.51,D,AR,0,30.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+230,Pitheciidae Plecturocebus,Red bellied Titi,South America,Paraguay,0.99,D,AR,0,4.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+231,Cercopithecidae Cercocebus,Red capped Mangabey,North West Africa,Cameroon,7.5,D,BOTH,2,247.4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+232,Lemuridae Eulemur,Red collared Brown Lemur,Madagascar,Madagascar,2.14,CA,AR,3,58.65,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+233,Pitheciidae Plecturocebus,Red crowned Titi,Central America,Ecuador,1.01,D,AR,0,3.3,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+234,Cercopithecidae Cercopithecus,Red eared Monkey,North West Africa,Benine,3.4,D,AR,2,31.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+235,Atelidae Ateles,Red faced Black Spider Monkey,Central America,Surinam,8.28,D,AR,2,255.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+236,Lemuridae Eulemur,Red fronted Brown Lemur,Madagascar,Madagascar,2.21,CA,AR,1,22.06,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+237,Atelidae Alouatta,Red handed Howler,South America,Brazil,6.4,D,AR,2,7.125,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+238,Cercopithecidae Pygathrix,Red shanked Douc,South East Asia,Vietnam,9.72,D,AR,3,36.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+239,Cercopithecidae Cercopithecus,Red tailed Monkey,East Africa,Kenya,3.24,D,AR,0,22.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0
+240,Lepilemuridae Lepilemur,Red tailed Sportive Lemur,Madagascar,Madagascar,0.75,N,AR,2,0.8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+241,Cercopithecidae Macaca,Rhesus Macaque,South East Asia,India,5.96,D,BOTH,0,47.75,1.0,1.0,1.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+242,Lemuridae Lemur,Ring tailed Lemur,Madagascar,Madagascar,2.21,D,BOTH,3,25.5,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+243,Pitheciidae Chiropotes,Rio Negro Beared Saki,South America,Brazil,2.74,D,AR,0,142.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+244,Cercopithecidae Cercopithecus,Roloway Monkey,North West Africa,CÃ´te dÂIvoire,4.55,D,AR,3,189.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+245,Lemuridae Eulemur,Rufous Brown Lemur,Madagascar,Madagascar,2.01,CA,AR,2,97.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+246,Cheirogaleidae Microcebus,Rufous Mouse Lemur,Madagascar,Madagascar,0.04,N,AR,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+247,Cercopithecidae Presbytis,Sabah Grizzled Langur,South East Asia,Malaysia,5.9,D,AR,3,90.9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+248,Lepilemuridae Lepilemur,Sahafary Sportive Lemur,Madagascar,Madagascar,0.675,N,AR,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+249,Lepilemuridae Lepilemur,Sahamalaza Sportive Lemur,Madagascar,Madagascar,0.69,N,AR,4,0.84,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+250,Cheirogaleidae Microcebus,Sambirano Mouse Lemur,Madagascar,Madagascar,0.04,N,AR,3,1.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+251,Lemuridae Eulemur,Sanford s Brown Lemur,Madagascar,Madagascar,1.85,CA,AR,3,14.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+252,Cercopithecidae Cercocebus,Sanje River Mangabey,North West Africa,CÃ´te dÂIvoire,8.05,D,BOTH,3,240.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+253,Cercopithecidae Cercopithecus,Sclater s Monkey,North West Africa,CÃ´te dÂIvoire,3.25,D,AR,2,25.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+254,Tarsiidae Tarsius,Selayar Tarsier,South East Asia,Indonesia,0.122,N,AR,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+255,Cebidae Cebus,Shock headed Capuchin,South America,Colombia,2.85,D,AR,1,150.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+256,Hylobatidae Symphalangus,Siamang,South East Asia,Sumatra,11.3,D,AR,3,17.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+257,Cercopithecidae Presbytis,Siberut Langur,South East Asia,Malaysia,6.45,D,AR,3,16.75,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+258,Cercopithecidae Macaca,Siberut Macaque,South East Asia,Indonesia,6.38,D,T & AR,2,125.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+259,Indriidae Propithecus,Silky Sifaka,Madagascar,Madagascar,6.1,D,AR,4,38.85,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+260,Cercopithecidae Trachypithecus,Silvered Langur,South East Asia,Malaysia,6.25,D,AR,1,43.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+261,Callitrichidae Mico,Silvery Marmoset,South America,Brazil,0.35,D,AR,0,10.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+262,Lepilemuridae Lepilemur,Small toothed Sportive Lemur,Madagascar,Madagascar,0.97,N,AR,3,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+263,Galagidae Galago,Somali Lesser Galago,East Africa,Somalia,0.2,N,AR,0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+264,Cercopithecidae Cercocebus,Sooty Mangabey,North West Africa,CÃ´te dÂIvoire,8.6,D,T,1,500.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+265,Pitheciidae Callicebus,Southern Bahian Titi,South America,Brazil,1.37,D,AR,2,22.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+266,Lemuridae Hapalemur,Southern Bamboo Lemur,Madagascar,Madagascar,1.07,CA,AR,2,13.27,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+267,Galagidae Galago,Southern Lesser Galago,Madagascar,Madagascar,0.2,N,AR,0,2.8,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+268,Atelidae Brachyteles,Southern Muriqui,South America,Brazil,8.84,D,AR,3,340.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+269,Galagidae Euoticus,Southern Needle clawed Galago,North West Africa,Cameroon,0.27,N,AR,0,6.7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Gummivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270,Cercopithecidae Miopithecus,Southern Talapoin Monkey,West Africa,Angola,1.25,D,BOTH,0,311.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+271,Hylobatidae Nomascus,Southern White cheeked Crested Gibbon,South East Asia,Laos,7.25,D,AR,3,36.42,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+272,Indriidae Avahi,Southern Woolly Lemur,Madagascar,Madagascar,1.15,N,AR,3,5.72,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273,Hylobatidae Nomascus,Southern Yellow cheeked Crested Gibbon,South East Asia,Sri Lanka,5.2,D,AR,3,51.86,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+274,Pitheciidae Cacajao,Spix s Black headed Uacari,South America,Brazil,2.35,D,AR,2,500.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+275,Atelidae Alouatta,Spix s Howler,South America,Brazil,6.37,D,AR,2,69.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+276,Aotidae Aotus,Spix s Night Monkey,South America,Peru,0.7,N,AR,0,6.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+277,Callitrichidae Leontocebus,Spix s Saddle back Tamarin,South America,Peru,0.33,CA,AR,0,145.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+278,Cercopithecidae Cercopithecus,Spot nosed Monkey,North West Africa,CÃ´te dÂIvoire,3.65,D,AR,0,89.375,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+279,Cercopithecidae Rhinopithecus,Stryker s Snub nosed Monkey,East Asia,China,11.25,D,BOTH,4,2290.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280,Cercopithecidae Macaca,Stump tailed Macaque,South East Asia,India,10.3,D,BOTH,2,461.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+281,Tarsiidae Tarsius,Sulawesi Mountain Tarsier,South East Asia,Indonesia,0.051,N,AR,3,1.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+282,Hominidae Pongo,Sumatran Orangutan,South East Asia,Sumatra,56.75,D,AR,4,277.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+283,Cercopithecidae Macaca,Sunda Pig tailed Macaque,South East Asia,India,8.89,D,BOTH,2,314.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+284,Lorisidae Nycticebus,Sunda Slow Loris,South East Asia,Malaysia,0.65,N,AR,2,6.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+285,Cercopithecidae Cercopithecus,Syke s Monkey,East Africa,Kenya,5.28,D,AR,0,14.25,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+286,Cercopithecidae Macaca,Taiwanese Macaque,East Asia,China,5.47,D,BOTH,0,120.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+287,Cercopithecidae Cercocebus,Tana River Mangabey,North West Africa,CÃ´te dÂIvoire,7.44,D,BOTH,3,59.7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0
+288,Cercopithecidae Piliocolobus,Tana River Red Colobus,East Africa,Kenya,9.0,D,AR,3,14.25,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+289,Cercopithecidae Chlorocebus,Tantalus Monkey,North West Africa,Nigeria,4.65,D,T,0,66.5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+290,Galagidae Galagoides,Tanzania Coast Dwarf Galago,East Africa,Kenya,0.14,N,AR,0,2.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+291,Indriidae Propithecus,Tattersall s Sifaka,Madagascar,Madagascar,3.5,D,AR,4,10.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+292,Cercopithecidae Piliocolobus,Temminick s Red Colobus,North West Africa,Senegal,5.85,D,BOTH,3,22.5,1.0,1.0,1.0,0.0,1.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+293,Galagidae Otolemur,Thick tailed Greater Galago,South Africa,Zimbabwe,1.15,N,AR,0,8.5,1.0,1.0,1.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+294,Galagidae Galagoides,Thomas s Dwarf Galago,East Africa,Kenya,0.12,N,AR,0,1.6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+295,Cercopithecidae Presbytis,Thomas s Langur,South East Asia,Malaysia,6.73,D,AR,2,27.43,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+296,Cercopithecidae Macaca,Tibetan Macaque,East Asia,China,15.55,D,T,1,1106.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+297,Cercopithecidae Macaca,Tonkean Macaque,South East Asia,Indonesia,11.95,D,BOTH,2,104.75,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+298,Cercopithecidae Rhinopithecus,Tonkin Snub nosed Monkey,South East Asia,Vietnam,11.25,D,AR,4,470.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+299,Cercopithecidae Macaca,Toque Macaque,South East Asia,Sri Lanka,4.48,D,AR,3,66.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+300,Cercopithecidae Piliocolobus,Udzungwa Red Colobus,East Africa,Tanzania,7.05,D,AR,3,17.53,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+301,Cercopithecidae Lophocebus,Ugandan Crested Mangabey,Central Africa,Uganda,6.5,D,AR,5,155.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+302,Cercopithecidae Piliocolobus,Upper Guinea Red Colobus,North West Africa,Sierra Leone,8.25,D,AR,3,58.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+303,Atelidae Alouatta,Ursine Red Howler,South America,Brazil,6.37,D,AR,0,7.52,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+304,Pitheciidae Chiropotes,Uta Hick s Bearded Saki,South America,Brazil,3.0,D,AR,3,100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+305,Atelidae Ateles,Variegated Spider Monkey,South America,Colombia,8.6,D,AR,4,40.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+306,Indriidae Propithecus,Verreaux s Sifaka,Madagascar,Madagascar,2.91,D,AR,3,7.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+307,Cercopithecidae Chlorocebus,Vervet Monkey,South Africa,South Africa,3.63,D,T,0,25.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+308,Cercopithecidae Cercopithecus,Virungas Golden Monkey,West Africa,Congo,6.2,D,AR,3,67.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+309,Lepilemuridae Lepilemur,Weasel Sportive Lemur,Madagascar,Madagascar,1.0,N,AR,1,0.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+310,Lorisidae Perodicticus,West African Potto,West Africa,Gabon,0.83,N,AR,0,7.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+311,Hylobatidae Nomascus,Western Black Crested Gibbon,South East Asia,India,7.69,D,AR,4,87.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+312,Callitrichidae Saguinus,Western Black handed Tamarin,South America,Brazil,0.43,D,AR,2,32.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+313,Hominidae Gorilla,Western Gorilla,West Africa,Angola,122.5,D,BOTH,4,1100.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Foli-frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+314,Hylobatidae Hoolock,Western Hoolock Gibbon,South East Asia,India,6.88,D,AR,3,22.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+315,Tarsiidae Cephalopachus,Western Tarsier,South East Asia,Borneo,0.12,N,AR,2,1.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Insectivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+316,Indriidae Avahi,Western Woolly Lemur,Madagascar,Madagascar,0.8,N,AR,3,0.95,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+317,Atelidae Ateles,White bellied Spider Monkey,Central America,Ecuador,8.07,D,AR,3,269.9166666666667,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+318,Pitheciidae Cheracebus,White chested Titi,South America,Colombia,1.37,D,AR,0,14.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+319,Lemuridae Eulemur,White collared Brown Lemur,Madagascar,Madagascar,2.16,CA,AR,4,56.65,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+320,Pitheciidae Cheracebus,White collared Titi,South America,Peru,1.25,D,AR,0,20.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+321,Pitheciidae Plecturocebus,White eared Titi,Central America,Ecuador,0.95,D,AR,0,100.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+322,Pitheciidae Pithecia,White faced saki,Central America,Surinam,1.76,D,AR,0,12.5,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+323,Lepilemuridae Lepilemur,White footed Sportive Lemur,Madagascar,Madagascar,0.61,N,AR,3,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+324,Callitrichidae Saguinus,White footed Tamarin,South America,Colombia,0.49,D,AR,3,9.22,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+325,Lemuridae Eulemur,White fronted Brown Lemur,Madagascar,Madagascar,2.18,CA,AR,3,13.1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+326,Cercopithecidae Presbytis,White fronted Langur,South East Asia,Indonesia,5.61,D,AR,2,200.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+327,Cercopithecidae Trachypithecus,White headed Langur,East Asia,China,8.285,D,BOTH,4,29.1,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+328,Cercopithecidae Cercocebus,White naped Mangabey,North West Africa,CÃ´te dÂIvoire,7.28,D,T,3,200.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+329,Pitheciidae Chiropotes,White nosed Bearded Saki,South America,Brazil,2.82,D,AR,3,210.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+330,Cercopithecidae Colobus,White thighed Colobus,North West Africa,Ghana,7.68,D,AR,2,48.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+331,Callitrichidae Callithrix,Wied s Black tufted ear Marmoset,South America,Brazil,0.38,D,AR,1,38.9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+332,Cercopithecidae Papio,Yellow Baboon,South Africa,Zimbabwe,17.05,D,T,0,900.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+333,Cebidae Sapajus,Yellow breasted Capuchin,South America,Brazil,2.875,D,AR,4,969.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Omnivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+334,Pitheciidae Cheracebus,Yellow handed Titi,South America,Colombia,1.5,D,AR,0,20.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Frugivore,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+335,Cercopithecidae Rhinopithecus,Yunnan Snub nosed Monkey,East Asia,China,12.48,D,BOTH,3,2525.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Folivore,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+336,Cercopithecidae Piliocolobus,Zanzibar Red Colobus,East Africa,Tanzania,6.9,D,AR,3,19.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Foli-frugivore,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0

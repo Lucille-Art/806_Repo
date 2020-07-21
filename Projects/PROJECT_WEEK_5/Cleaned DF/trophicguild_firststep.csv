@@ -1,0 +1,519 @@
+,Unnamed: 0,Unnamed: 0.1,CommonName,TrophicGuild,Fruit,Leaves,Flowers,Seeds,Animal,Gums,Nectar,Other,Country,Region,Insects
+0,0,0,Allen_s_Swamp_Monkey,Frugivore,1,1,0,0,1,0,0,0,Congo,West Africa,0
+1,1,1,Hairy_eared_Dwarf_Lemur,Omnivore,1,1,0,0,1,0,0,0,Madagascar,Madagascar,0
+2,2,2,L_Hoest_s_Monkey,Omnivore,1,1,0,1,1,0,0,0,Congo,West Africa,0
+3,3,3,Preuss_s_Monkey,Omnivore,1,1,0,0,0,0,0,0,Cameroon,North West Africa,0
+4,4,4,Sun_tailed_Monkey,Omnivore,1,1,0,0,1,0,0,0,Congo,West Africa,0
+5,5,5,Ursine_Red_Howler,Folivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+6,6,6,Red_handed_Howler,Foli-frugivore,1,1,1,0,0,0,0,0,Brazil,South America,0
+7,7,7,Paraguayan_Howler,Foli-frugivore,1,1,1,1,0,0,0,1,Brazil,South America,1
+8,8,8,Spix_s_Howler,Foli-frugivore,1,1,1,0,0,0,0,1,Brazil,South America,1
+9,9,9,Brown_Howler,Foli-frugivore,1,1,1,0,0,0,0,1,Brazil,South America,1
+10,10,10,Guianan_Red_Howler,Folivore,1,1,1,0,0,0,0,1,Brazil,South America,1
+11,11,11,Amazon_Black_Howler,Foli-frugivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+12,12,12,Mantled_Howler,Folivore,1,1,1,0,0,0,0,1,Brazil,South America,1
+13,13,13,Central_American_Black_Howler,Foli-frugivore,1,1,1,0,0,0,0,1,Belize,Central America,1
+14,14,14,Bolivian_Red_Howler,Foli-frugivore,1,1,0,0,0,0,0,0,Peru,South America,0
+15,15,15,Colombian_Red_Howler,Foli-frugivore,1,1,0,0,0,0,0,1,Colombia,South America,1
+16,16,16,Maranhão_Red_handed_Howler,Foli-frugivore,1,1,0,0,0,0,0,0,Colombia,South America,0
+17,17,17,Azara_s_Night_Monkey,Omnivore,1,1,0,0,0,0,0,0,Colombia,South America,0
+18,18,18,Brumback_s_Night_Monkey,Omnivore,1,1,0,0,0,0,0,0,Colombia,South America,0
+19,19,19,Gray_legged_Night_Monkey,,1,1,1,1,1,1,1,1,Ecuador,Central America,1
+20,20,20,Hernández_Camacho_s_Night_Monkey,Non-observed,1,1,1,1,1,1,1,1,Colombia,South America,1
+21,21,21,Lemurine_Night_Monkey,Omnivore,1,1,0,0,0,0,0,0,Colombia,South America,0
+22,22,22,Andean_Night_Monkey,Omnivore,1,1,1,1,1,0,0,1,Brazil,South America,1
+23,23,23,Ma_s_Night_Monkey,Frugivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+24,24,24,Black_headed_Night_Monkey,Frugivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+25,25,25,Humboldt_s_Night_Monkey,Frugivore,1,1,1,0,1,0,0,0,Paraguay,South America,0
+26,26,26,Spix_s_Night_Monkey,Frugivore,1,1,0,0,0,0,1,0,Peru,South America,0
+27,27,27,Panamanian_Night_Monkey,Frugivore,1,1,0,0,1,0,0,0,Peru,South America,0
+28,28,28,Golden_Angwantibo,Insectivore,1,1,0,0,1,0,0,0,Congo,West Africa,1
+29,29,29,Calabar_Angwantibo,Insectivore,1,1,0,0,0,0,0,0,Congo,West Africa,1
+30,30,30,White_bellied_Spider_Monkey,Frugivore,1,1,1,0,0,0,1,1,Ecuador,Central America,1
+31,31,31,Black_Spider_Monkey,Frugivore,1,1,1,0,0,0,1,0,Bolivia,South America,0
+32,32,32,Brown_headed_Spider_Monkey,Frugivore,1,1,0,0,0,0,0,0,Ecuador,Central America,0
+33,33,33,Central_American_Spider_Monkey,Frugivore,1,1,0,0,0,0,0,1,Ecuador,Central America,1
+34,34,35,Variegated_Spider_Monkey,Foli-frugivore,1,1,1,0,0,0,0,1,Colombia,South America,1
+35,35,36,White_whiskered_Spider_Monkey,Frugivore,1,1,0,0,0,0,0,0,Colombia,South America,0
+36,36,37,Red_faced_Black_Spider_Monkey,Frugivore,1,1,1,0,0,0,0,0,Surinam,Central America,0
+37,37,38,Betsileo_Woolly_Lemur,Non-observed,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+38,38,39,Bemaraha_Woolly_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+39,39,40,Eastern_Woolly_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+40,40,41,Southern_Woolly_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+41,41,42,Masoala_Woolly_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+42,42,43,Western_Woolly_Lemur,Folivore,1,1,0,0,0,0,0,1,Madagascar,Madagascar,1
+43,43,44,Peyrieras_s_Woolly_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+44,44,45,Manombo_Woolly_Lemur,Non-observed,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+45,45,46,Sambirano_Woolly_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+46,46,47,Southern_Muriqui,Foli-frugivore,1,1,1,0,0,0,0,0,Brazil,South America,0
+47,47,49,Northern_Muriqui,Foli-frugivore,1,1,1,0,0,0,0,1,Brazil,South America,1
+48,48,50,Ayres Black_Uakari,Non-observed,1,1,1,1,1,1,1,1,Brazil,South America,1
+49,49,51,Bald_Uacari,Frugivore,1,1,0,1,1,0,1,0,Brazil,South America,0
+50,50,52,Black-headed_Uacari,Frugivore,1,1,1,1,1,1,1,1,Brazil,South America,1
+51,51,53,Black_headed_Uacari,Frugivore,1,1,1,1,1,0,0,1,Brazil,South America,1
+52,52,54,Spix_s_Black_headed_Uacari,Frugivore,1,1,1,1,1,0,0,0,Brazil,South America,0
+53,53,55,Black_crowned_Dwarf_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+54,54,56,Blond_Titi,Gummivore,1,1,1,1,1,1,1,1,Brazil,South America,1
+55,55,57,Coimbra_Filho_s_Titi,Frugivore,1,1,1,1,1,0,0,0,Brazil,South America,0
+56,56,58,Southern_Bahian_Titi,Frugivore,1,1,0,1,0,0,0,1,Brazil,South America,1
+57,57,59,Black_fronted_Titi,Frugivore,1,1,1,0,1,0,0,0,Brazil,South America,0
+58,58,60,Masked_Titi,Frugivore,1,1,1,0,0,0,0,0,Brazil,South America,0
+59,59,61,Goeldi_s_Monkey*,Omnivore,1,1,0,0,1,1,1,1,Bolivia,South America,1
+60,60,62,Buffy_tufted_ear_Marmoset,Omnivore,1,1,0,0,1,1,0,1,Brazil,South America,1
+61,61,63,Buffy_headed_Marmoset,Gummivore,1,1,0,0,1,1,0,0,Brazil,South America,0
+62,62,65,Geoffroy_s_Tufted_ear_Marmoset,Gummivore,1,1,0,1,0,1,0,1,Brazil,South America,1
+63,63,66,Common_Marmoset,Gummivore,1,1,0,0,0,1,0,1,Brazil,South America,1
+64,64,67,Wied_s_Black_tufted_ear_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+65,65,68,Black_tufted_ear_Marmoset,Gummivore,1,1,0,0,1,1,0,0,Brazil,South America,0
+66,66,69,Philippine_Tarsier,Insectivore,1,1,0,0,0,0,0,0,Brazil,South America,1
+67,67,70,Eastern_Pygmy_Marmoset,Omnivore,1,1,1,1,1,1,1,1,Colombia,South America,1
+68,68,71,Pygmy_Marmoset,Omnivore,1,1,0,0,0,1,0,0,Ecuador,Central America,0
+69,69,75,Ecuadorian_White_fronted_Capuchin,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+70,70,76,Humboldt_s_White_fronted_Capuchin,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+71,71,77,Venezuelan_Brown_Capuchin,Frugivore,1,1,1,1,1,1,1,1,Brazil,South America,1
+72,72,78,Colombian_White_faced_Capuchin,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+73,73,79,Río_Cesar_White_fronted_Capuchin,Frugivore,1,1,1,1,1,1,1,1,Colombia,South America,1
+74,74,80,Shock_headed_Capuchin,Omnivore,1,1,0,0,0,0,0,0,Colombia,South America,0
+75,75,81,Panamanian_White_faced_Capuchin,Omnivore,1,1,0,0,0,0,0,0,Colombia,South America,0
+76,76,82,Ka_apor_Capuchin,Omnivore,1,1,0,1,1,0,0,1,Brazil,South America,1
+77,77,83,Sierra_de_Perijá_White_fronted_Capuchin,Frugivore,1,1,1,1,1,1,1,1,Colombia,South America,1
+78,78,84,Santa_Marta_White_fronted_Capuchin,Frugivore,1,1,1,1,1,1,1,1,Colombia,South America,1
+79,79,85,Guianan_Weeper_Capuchin,Omnivore,1,1,1,1,1,0,1,1,Colombia,South America,1
+80,80,86,Spix_s_White_fronted_Capuchin,Frugivore,1,1,1,1,1,1,1,1,Colombia,South America,1
+81,81,87,Varied_White_fronted_Capuchin,Insectivore,1,1,1,1,1,1,1,1,Guinea,North West Africa,1
+82,82,88,Marañón_White_fronted_Capuchin,Omnivore,1,1,0,0,1,0,0,0,Ecuador,Central America,0
+83,83,89,Western_Tarsier,Insectivore,1,1,0,0,0,0,0,0,Borneo,South East Asia,1
+84,84,90,Agile_Mangabey,Frugivore,1,1,0,0,0,0,0,0,Côte dIvoire,North West Africa,0
+85,85,91,Sooty_Mangabey,Frugivore,1,1,1,1,1,0,0,1,Côte dIvoire,North West Africa,1
+86,86,92,Golden_bellied_Mangabey,Frugivore,1,1,0,0,0,0,0,0,Côte dIvoire,North West Africa,0
+87,87,93,Tana_River_Mangabey,Frugivore,1,1,1,1,0,1,0,1,Côte dIvoire,North West Africa,1
+88,88,94,White_naped_Mangabey,Frugivore,1,1,0,0,0,0,0,0,Côte dIvoire,North West Africa,0
+89,89,95,Sanje_River_Mangabey,Frugivore,1,1,1,1,1,1,1,1,Côte dIvoire,North West Africa,1
+90,90,96,Red_capped_Mangabey,Frugivore,1,1,0,1,0,0,0,0,Cameroon,North West Africa,0
+91,91,97,Syke_s_Monkey,Foli-frugivore,1,1,1,0,1,0,0,0,Kenya,East Africa,0
+92,92,99,Red_tailed_Monkey,Frugivore,1,1,0,1,1,1,0,1,Kenya,East Africa,1
+93,93,101,Campbell_s_Monkey,Omnivore,1,1,1,0,1,0,0,1,Côte dIvoire,North West Africa,1
+94,94,102,Moustached_Monkey,Frugivore,1,1,0,0,1,0,0,1,Côte dIvoire,North West Africa,1
+95,95,103,Dent_s_Monkey,Omnivore,1,1,0,0,0,0,0,0,Côte dIvoire,North West Africa,0
+96,96,104,Diana_Monkey,Frugivore,1,1,1,0,1,0,0,1,Côte dIvoire,North West Africa,1
+97,97,105,Silver_Monkey,Omnivore,1,1,1,1,1,0,0,1,Côte dIvoire,North West Africa,1
+98,98,106,Dryas_Monkey,Frugivore,1,1,0,0,0,0,0,0,Côte dIvoire,North West Africa,0
+99,99,107,Red_bellied_Monkey,Omnivore,1,1,1,1,1,1,1,1,Togo,North West Africa,1
+100,100,108,Red_eared_Monkey,Frugivore,1,1,0,0,0,0,0,0,Benine,North West Africa,0
+101,101,109,Owl_faced_Monkey,Omnivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+102,102,110,Virungas_Golden_Monkey,Folivore,1,1,1,0,1,0,0,1,Congo,West Africa,1
+103,103,111,Lesula,Foli-frugivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+104,104,112,Lowe_s_Monkey,Frugivore,1,1,0,0,1,0,0,0,Congo,West Africa,0
+105,105,113,Blue_Monkey,Frugivore,1,1,1,0,0,0,0,1,South Africa,South Africa,1
+106,106,114,Mona_Monkey,Frugivore,1,1,1,1,1,0,0,1,Benine,North West Africa,1
+107,107,115,De_Brazza_s_Monkey,Frugivore,1,1,0,0,0,0,0,0,Benine,North West Africa,0
+108,108,116,Putty_nosed_Monkey,Frugivore,1,1,0,0,1,0,0,0,Benine,North West Africa,0
+109,109,117,Spot_nosed_Monkey,Foli-frugivore,1,1,1,0,1,0,0,1,Côte dIvoire,North West Africa,1
+110,110,118,Crowned_Monkey,Frugivore,1,1,0,0,0,0,0,0,Côte dIvoire,North West Africa,0
+111,111,119,Roloway_Monkey,Omnivore,1,1,1,1,1,0,0,0,Côte dIvoire,North West Africa,0
+112,112,120,Sclater_s_Monkey,Frugivore,1,1,0,0,0,0,0,0,Côte dIvoire,North West Africa,0
+113,113,121,Wolf_s_Monkey,Foli-frugivore,1,1,1,1,0,0,0,1,Congo,West Africa,1
+114,114,122,Montagne_d_Ambre_Dwarf_Lemur,Non-observed,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+115,115,123,Crossley_s_Dwarf_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+116,116,124,Lavasoa_Dwarf_lemur,Non-observed,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+117,117,125,Greater_Dwarf_Lemur,Foli-frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+118,118,126,Fat_tailed_Dwarf_Lemur,Foli-frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+119,119,127,Lesser_Iron_gray_Dwarf_Lemur,Non-observed,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+120,120,128, Sheth's_Dwarf_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+121,121,129,Sibree_s_Dwarf_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+122,122,130,Thomas_s_Dwarf_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+123,123,131,Yellow_handed_Titi,Frugivore,1,1,1,0,1,0,0,1,Colombia,South America,1
+124,124,132,White_chested_Titi,Frugivore,1,1,1,1,1,0,0,0,Colombia,South America,0
+125,125,133,Medem_s_Titi,Frugivore,1,1,1,1,1,1,1,1,Brazil,South America,1
+126,126,135,Rio_Juruá_Collared_Titi,Frugivore,1,1,1,1,1,1,1,1,Brazil,South America,1
+127,127,136,White_collared_Titi,Frugivore,1,1,0,0,1,0,0,1,Peru,South America,1
+128,128,137,White_nosed_Bearded_Saki,Frugivore,1,1,1,1,0,0,0,1,Brazil,South America,1
+129,129,138,Rio_Negro_Beared_Saki,Frugivore,1,1,0,1,0,0,0,1,Brazil,South America,1
+130,130,139, Brown-backed_Bearded_Saki,,1,1,1,1,1,1,1,1,Brazil,South America,1
+131,131,140,Guianan_Beared_Saki,Frugivore,1,1,1,1,0,0,0,0,Brazil,South America,0
+132,132,141,Black_Bearded_Saki,Frugivore,1,1,1,0,0,0,0,0,Surinam,Central America,0
+133,133,142,Uta_Hick_s_Bearded_Saki,Frugivore,1,1,1,1,0,0,0,0,Brazil,South America,0
+134,134,143,Grivet_Monkey,Omnivore,1,1,1,0,1,0,0,1,Ethiopia,East Africa,1
+135,135,144,Malbrouck_Monkey,Omnivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+136,136,145,Bale_Monkey,Folivore,1,1,1,0,1,0,0,1,Ethiopia,East Africa,1
+137,137,146,Vervet_Monkey,Omnivore,1,1,0,0,0,0,0,0,South Africa,South Africa,0
+138,138,147,Green_Monkey,Omnivore,1,1,1,0,1,1,0,1,Senegal,North West Africa,1
+139,139,148,Tantalus_Monkey,Omnivore,1,1,1,0,1,0,0,0,Nigeria,North West Africa,0
+140,140,149,Angolan_Colobus,Folivore,1,1,1,0,0,0,0,1,Rwanda,Central Africa,1
+141,141,150,Guereza,Foli-frugivore,1,1,1,1,0,0,0,1,Cameroon,North West Africa,1
+142,142,151,King_Colobus,Folivore,1,1,0,0,0,0,0,0,Cameroon,North West Africa,0
+143,143,152,Black_Colobus,Frugivore,1,1,1,1,0,0,0,1,Cameroon,North West Africa,1
+144,144,153,White_thighed_Colobus,Folivore,1,1,1,0,0,0,0,1,Ghana,North West Africa,1
+145,145,154,Aye_aye,Insectivore,1,1,0,1,1,1,1,0,Madagascar,Madagascar,1
+146,146,155,Patas_Monkey,Omnivore,1,1,1,1,1,1,0,1,Kenya,East Africa,1
+147,147,156,Heuglin's_Patas_Monkey,Omnivore,1,1,1,1,1,1,1,1,Sudan,East Africa,1
+148,148,157,White_fronted_Brown_Lemur,Frugivore,1,1,1,0,0,0,0,1,Madagascar,Madagascar,1
+149,149,158,White_collared_Brown_Lemur,Frugivore,1,1,1,0,0,0,0,1,Madagascar,Madagascar,1
+150,150,159,Red_collared_Brown_Lemur,Frugivore,1,1,1,0,1,0,0,1,Madagascar,Madagascar,1
+151,151,160,Crowned_Lemur,Frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+152,152,161,Blue_eyed_Black_Lemur,Foli-frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+153,153,162,Brown_Lemur,Foli-frugivore,1,1,1,0,0,0,0,1,Madagascar,Madagascar,1
+154,154,163,Black_Lemur,Frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+155,155,164,Mongoose_Lemur,Foli-frugivore,1,1,1,0,0,0,1,1,Madagascar,Madagascar,1
+156,156,167,Red_bellied_Lemur,Frugivore,1,1,1,0,0,0,0,1,Madagascar,Madagascar,1
+157,157,169,Red_fronted_Brown_Lemur,Foli-frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+158,158,170,Rufous_Brown_Lemur,Frugivore,1,1,1,0,0,0,0,1,Madagascar,Madagascar,1
+159,159,172,Sanford_s_Brown_Lemur,Frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+160,160,173,Southern_Needle_clawed_Galago,Gummivore,1,1,0,0,0,0,0,0,Cameroon,North West Africa,0
+161,161,174,Northern_Needle_clawed_Galago,Gummivore,1,1,0,0,0,0,0,0,Nigeria,North West Africa,0
+162,162,175,Somali_Lesser_Galago,Omnivore,1,1,0,0,0,0,0,0,Somalia,East Africa,0
+163,163,176,Spectacled_Lesser_Galago,Omnivore,1,1,0,0,0,0,0,0,Burundi,Central Africa,0
+164,164,177,Southern_Lesser_Galago,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+165,165,178,Northern_Lesser_Galago,Omnivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+166,166,179,Kenya_Coast_Dwarf_Galago,Omnivore,1,1,0,0,0,0,0,0,Kenya,East Africa,0
+167,167,180,Demidoff_s_Dwarf_Galago,Omnivore,1,1,0,0,0,0,0,0,Kenya,East Africa,0
+168,168,181,Mozambique_Dwarf_Galago,Omnivore,1,1,0,0,0,0,0,0,Mozambique,South Africa,0
+169,169,182,Mountain_Dwarf_Galago,Omnivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+170,170,183,Rondo_Dwarf_Galago,Omnivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+171,171,184,Angolan_Dwarf_Galago,Non-observed,1,1,1,1,1,1,1,1,Angola,West Africa,1
+172,172,186,Thomas_s_Dwarf_Galago,Omnivore,1,1,0,0,1,1,0,0,Kenya,East Africa,0
+173,173,188,Tanzania_Coast_Dwarf_Galago,Omnivore,1,1,0,0,1,0,0,1,Kenya,East Africa,1
+174,174,190,Eastern_Gorilla,Foli-frugivore,1,1,1,0,0,0,0,1,Congo,West Africa,1
+175,175,191,Western_Gorilla,Foli-frugivore,1,1,0,0,0,0,0,0,Angola,West Africa,0
+176,176,192,Lac_Alaotra_Bamboo_Lemur,Folivore,1,1,1,1,0,0,0,0,Madagascar,Madagascar,0
+177,177,193,Golden_Bamboo_Lemur,Folivore,1,1,0,0,0,0,0,1,Madagascar,Madagascar,1
+178,178,194,Gray_Bamboo_Lemur,Folivore,1,1,0,0,0,0,0,1,Madagascar,Madagascar,1
+179,179,195,Southern_Bamboo_Lemur,Folivore,1,1,1,0,0,0,0,1,Madagascar,Madagascar,1
+180,180,196,Northern_Bamboo_Lemur,Foli-frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+181,181,197,Western_Hoolock_Gibbon,Frugivore,1,1,1,1,0,0,0,1,India,South East Asia,1
+182,182,198,Eastern_Hoolock_Gibbon,Frugivore,1,1,0,0,0,0,0,0,China,East Asia,0
+183,183,201,Skywalker_Hoolock_Gibbon,Non-observed,1,1,1,1,1,1,1,1,China,East Asia,1
+184,184,202,Abbott_s_Gray_Gibbon,Omnivore,1,1,1,1,1,1,1,1,China,East Asia,1
+185,185,203,Agile_Gibbon,Frugivore,1,1,1,1,0,0,0,1,Indonesia,South East Asia,1
+186,186,204,Bornean_White_bearded_Gibbon,Frugivore,1,1,1,0,1,0,0,0,Borneo,South East Asia,0
+187,187,205,East_Bornean_Gray_Gibbon,Frugivore,1,1,1,1,1,0,1,0,Borneo,South East Asia,0
+188,188,206,Kloss_s_Gibbon,Frugivore,1,1,0,0,1,0,0,1,Indonesia,South East Asia,1
+189,189,207,Lar_Gibbon,Frugivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+190,190,208,Moloch_Gibbon,Frugivore,1,1,1,0,0,0,0,0,Indonesia,South East Asia,0
+191,191,209,Müller_s_Gibbon,Frugivore,1,1,1,0,0,0,0,0,Indonesia,South East Asia,0
+192,192,210,Pileated_Gibbon,Frugivore,1,1,0,0,1,0,0,0,Indonesia,South East Asia,0
+193,193,211,Indri,Folivore,1,1,0,1,0,0,0,0,Madagascar,Madagascar,0
+194,194,212,Gray_Woolly_Monkey,Frugivore,1,1,1,0,0,0,0,0,Brazil,South America,0
+195,195,213,Peruvian_Yellow_tailed_Woolly_Monkey,Frugivore,1,1,0,0,0,0,0,0,Peru,South America,0
+196,196,214,Humboldt_s_Woolly_Monkey,Frugivore,1,1,1,1,1,0,0,1,Colombia,South America,1
+197,197,215,Colombian_Woolly_Monkey,Frugivore,1,1,1,1,1,1,1,1,Colombia,South America,1
+198,198,216,Poeppig_s_Woolly_Monkey,Frugivore,1,1,1,1,1,1,0,1,Ecuador,Central America,1
+199,199,217,Ring_tailed_Lemur,Foli-frugivore,1,1,1,0,0,1,0,0,Madagascar,Madagascar,0
+200,200,218,Cruz_Limas_Saddle_back_Tamarin,Omnivore,1,1,1,1,1,1,1,1,Brazil,South America,1
+201,201,219,Spix_s_Saddle_back_Tamarin,Omnivore,1,1,0,0,1,1,1,1,Peru,South America,1
+202,202,222,Lesson_s_Saddle_back_Tamarin,Omnivore,1,1,0,0,0,0,0,0,Peru,South America,0
+203,203,223,Illiger_s_Saddle_back_Tamarin,Omnivore,1,1,0,0,0,0,0,0,Peru,South America,0
+204,204,224,Red_mantled_Saddle_back_Tamarin,Omnivore,1,1,0,0,0,0,0,0,Ecuador,Central America,0
+205,205,225,Andean_Saddle_back_Tamarin,Omnivore,1,1,0,0,0,0,0,0,Ecuador,Central America,0
+206,206,226,Black_mantled_tamarin,Omnivore,1,1,0,0,0,0,0,0,Ecuador,Central America,0
+207,207,227,Geoffroy_s_Saddle_back_Tamarin,Omnivore,1,1,0,0,0,0,0,0,Peru,South America,0
+208,208,228,Golden_mantled_Saddle_back_Tamarin,Omnivore,1,1,0,1,1,1,1,1,Peru,South America,1
+209,209,230,Weddells_Saddle_back_Tamarin,Omnivore,1,1,0,0,1,1,1,1,Peru,South America,1
+210,210,232,Black_faced_Lion_Tamarin,Frugivore,1,1,1,0,1,0,1,1,Peru,South America,1
+211,211,233,Golden_headed_Lion_Tamarin,Omnivore,1,1,0,0,1,1,0,0,Peru,South America,0
+212,212,234,Black_Lion_Tamarin,Frugivore,1,1,0,1,1,1,1,0,Brazil,South America,0
+213,213,236,Golden_Lion_Tamarin,Frugivore,1,1,1,0,1,0,0,0,Brazil,South America,0
+214,214,237,Antafia_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+215,215,238,Tsiombikibo_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+216,216,239,Ankarana_Sportive_Lemur,Foli-frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+217,217,240,Betsileo_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+218,218,241,Gray_s_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+219,219,242,Milne_Edwards_s_Sportive_Lemur,Folivore,1,1,1,0,0,0,0,1,Madagascar,Madagascar,1
+220,220,243,Andohahela_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+221,221,244,Anjiamangirana_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+222,222,245,Mananara_Nord_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+223,223,246,Zombitse_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+224,224,247,Manombo_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+225,225,248,White_footed_Sportive_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+226,226,249,Small_toothed_Sportive_Lemur,Foli-frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+227,227,250,Daraina_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+228,228,251,Mittermeier_s_Sportive_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+229,229,252,Weasel_Sportive_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+230,230,254,Ambodimahabibo_Sportive_Lemur,Folivore,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+231,231,255,Petter_s_Sportive_Lemur,Folivore,1,1,1,0,0,0,0,0,Madagascar,Madagascar,0
+232,232,256,Bemaraha_Sportive_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+233,233,257,Red_tailed_Sportive_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+234,234,258,Sahamalaza_Sportive_Lemur,Folivore,1,1,0,0,0,0,0,1,Madagascar,Madagascar,1
+235,235,259,Masoala_Sportive_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+236,236,260,Seal_s_Sportive_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+237,237,261,Sahafary_Sportive_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+238,238,262,Nosy_Be_Sportive_Lemur,Foli-frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+239,239,263,Wright_s_Sportive_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+240,240,264,Gray_cheeked_Mangabey,Frugivore,1,1,0,0,0,0,0,0,Uganda,Central Africa,0
+241,241,265,Northern_Black_Crested_Mangabey,Frugivore,1,1,1,1,1,0,0,0,Congo,West Africa,0
+242,242,266,Johnston_s_Mangabey,Frugivore,1,1,1,1,1,1,1,1,Congo,West Africa,1
+243,243,267,Southern_Back_Crested_Mangabey,Frugivore,1,1,1,1,1,1,1,1,Congo,West Africa,1
+244,244,268,Rusty_mantled_Mangabey,Frugivore,1,1,1,1,1,1,1,1,Nigeria,North West Africa,1
+245,245,269,Ugandan_Crested_Mangabey,Foli-frugivore,1,1,1,0,1,0,0,0,Uganda,Central Africa,0
+246,246,270,Gray_Slender_Loris,Insectivore,1,1,0,0,1,1,0,0,India,South East Asia,1
+247,247,271,Red_Slender_Loris,Insectivore,1,1,0,0,0,0,0,0,Sri Lanka,South East Asia,1
+248,248,272,Stump_tailed_Macaque,Foli-frugivore,1,1,0,0,0,0,0,0,India,South East Asia,0
+249,249,273,Assamese_Macaque,Frugivore,1,1,1,0,0,0,0,0,Thailand,South East Asia,0
+250,250,275,Taiwanese_Macaque,Foli-frugivore,1,1,0,0,0,0,0,0,China,East Asia,0
+251,251,276,Long_tailed_Macaque,Frugivore,1,1,1,0,1,0,0,1,Indonesia,South East Asia,1
+252,252,277,Japanese_Macaque,Foli-frugivore,1,1,1,1,1,1,1,1,Japan,East Asia,1
+253,253,278,Heck_s_Macaque,Omnivore,1,1,0,0,0,0,0,0,India,South East Asia,0
+254,254,279,Northern_Pig_tailed_Macaque,Frugivore,1,1,1,1,1,0,0,1,India,South East Asia,1
+255,255,280,White_cheeked_Macaque,Non-observed,1,1,1,1,1,1,1,1,China,East Asia,1
+256,256,281,Moor_Macaque,Frugivore,1,1,0,0,0,0,0,0,India,South East Asia,0
+257,257,283,Rhesus_Macaque,Frugivore,1,1,0,0,0,0,0,0,India,South East Asia,0
+258,258,284,Arunachal_Macaque,Folivore,1,1,1,0,0,0,0,1,India,South East Asia,1
+259,259,285,Sunda_Pig_tailed_Macaque,Frugivore,1,1,1,0,1,0,0,1,India,South East Asia,1
+260,260,286,Crested_Macaque,Frugivore,1,1,0,1,1,0,0,0,Indonesia,South East Asia,0
+261,261,287,Gorontalo_Macaque,Frugivore,1,1,0,0,1,0,0,1,Indonesia,South East Asia,1
+262,262,288,Booted_Macaque,Frugivore,1,1,1,0,1,0,0,0,Indonesia,South East Asia,0
+263,263,289,Pagai_Macaque,Frugivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+264,264,290,Bonnet_Macaque,Frugivore,1,1,1,1,0,0,0,1,Indonesia,South East Asia,1
+265,265,291,Siberut_Macaque,Frugivore,1,1,1,0,1,0,0,1,Indonesia,South East Asia,1
+266,266,292,Lion_tailed_Macaque,Frugivore,1,1,1,1,0,0,0,0,India,South East Asia,0
+267,267,293,Toque_Macaque,Frugivore,1,1,1,1,1,1,0,1,Sri Lanka,South East Asia,1
+268,268,294,Barbary_Macaque,Omnivore,1,1,0,0,0,0,0,1,Morocco,North Africa,1
+269,269,295,Tibetan_Macaque,Frugivore,1,1,0,0,0,0,0,0,China,East Asia,0
+270,270,296,Tonkean_Macaque,Frugivore,1,1,1,1,1,0,0,1,Indonesia,South East Asia,1
+271,271,297,Drill,Omnivore,1,1,0,0,1,0,0,1,Cameroon,North West Africa,1
+272,272,298,Mandrill,Omnivore,1,1,0,0,1,0,0,1,Gabon,West Africa,1
+273,273,299,Rio_Acarí_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+274,274,300,Silvery_Marmoset,Omnivore,1,1,0,0,1,1,1,1,Brazil,South America,1
+275,275,301,Golden_white_Tassel_ear_Marmoset,Omnivore,1,1,0,0,0,0,0,1,Brazil,South America,1
+276,276,302,Snethlage_s_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+277,277,303,Santarém_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+278,278,304,Black-crowned_Dwarf_Marmoset,,1,1,1,1,1,1,1,1,Brazil,South America,1
+279,279,305,Rio_Aripuanã_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+280,280,306,Golden_white_Bare_ear_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+281,281,307,Marca_s_Marmoset,,1,1,1,1,1,1,1,1,Brazil,South America,1
+282,282,308,Maués_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+283,283,309,Black_tailed_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+284,284,310,Black_headed_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+285,285,311,Rondon_s_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+286,286,312,Sateré_Marmoset,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+287,287,313,Montagne_d_Ambre_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+288,288,314,Madame_Berthe_s_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+289,289,315,Bongolava_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+290,290,316, Nosy_Boraha_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+291,291,317,Ambarijeby_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+292,292,318,Ganzhorn's_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+293,293,319,Gerp_s_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+294,294,320,Gray_brown_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+295,295,321,Jolly_s_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+296,296,322,Goodman_s_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+297,297,323,Anjiahely_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+298,298,324,Nosy_Be_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+299,299,325,Bemanasy_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+300,300,326,Margot_Marsh_s_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+301,301,327,Marohita_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+302,302,328,Mittermeier_s_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+303,303,330,Gray_Mouse_Lemur,Gummivore,1,1,0,0,1,1,0,0,Madagascar,Madagascar,0
+304,304,331,Peters_s_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+305,305,332,Golden_brown_Mouse_Lemur,Omnivore,1,1,0,0,1,1,0,1,Madagascar,Madagascar,1
+306,306,333,Rufous_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+307,307,334,Sambirano_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+308,308,335,Simmons_s_Mouse_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+309,309,336,Anosi_Mouse_lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+310,310,337,Tavaratra_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+311,311,338,Northern_Talapoin_Monkey,Frugivore,1,1,0,0,0,0,0,0,Gabon,West Africa,0
+312,312,339,Southern_Talapoin_Monkey,Omnivore,1,1,0,0,0,0,0,0,Angola,West Africa,0
+313,313,340,Coquerel_s_Giant_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+314,314,341,Northern_Giant_Mouse_Lemur,Omnivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+315,315,342,Proboscis_Monkey,Foli-frugivore,1,1,1,1,1,0,0,1,Indonesia,South East Asia,1
+316,316,343,Northern_Yellow_cheeked_Crested_Gibbon,Frugivore,1,1,0,0,0,0,0,0,Laos,South East Asia,0
+317,317,344,Western_Black_Crested_Gibbon,Foli-frugivore,1,1,0,0,0,0,0,1,India,South East Asia,1
+318,318,345,Southern_Yellow_cheeked_Crested_Gibbon,Frugivore,1,1,1,0,0,0,0,0,Sri Lanka,South East Asia,0
+319,319,347,Hainan_Crested_Gibbon,Frugivore,1,1,1,1,1,0,0,1,China,East Asia,1
+320,320,348,Northern_White_cheeked_Crested_Gibbon,Foli-frugivore,1,1,1,0,1,0,0,0,Laos,South East Asia,0
+321,321,349,Eastern_Black_Crested_Gibbon,Frugivore,1,1,0,0,1,0,0,1,Vietnam,South East Asia,1
+322,322,350,Southern_White_cheeked_Crested_Gibbon,Frugivore,1,1,0,0,0,0,0,0,Laos,South East Asia,0
+323,323,351,Bangka_Slow_Loris,,1,1,1,1,1,1,1,1,Borneo,South East Asia,1
+324,324,352,Bengal_Slow_Loris,Gummivore,1,1,0,0,0,0,0,0,India,South East Asia,0
+325,325,353,Bornean_Slow_Loris,,1,1,1,1,1,1,1,1,Borneo,South East Asia,1
+326,326,354,Sunda_Slow_Loris,Omnivore,1,1,0,0,1,1,1,0,Malaysia,South East Asia,0
+327,327,355,Javan_Slow_Loris,Gummivore,1,1,0,0,0,0,0,0,Java,South East Asia,0
+328,328,357,Kayan_River_Slow_Loris,,1,1,1,1,1,1,1,1,Borneo,South East Asia,1
+329,329,358,Philippine_Slow_Loris,Omnivore,1,1,0,0,0,0,0,0,Philipines,South East Asia,0
+330,330,359,Pygmy_Slow_Loris,Gummivore,1,1,0,0,0,0,0,0,Borneo,South East Asia,0
+331,331,360,Thick_tailed_Greater_Galago,Omnivore,1,1,0,0,1,1,1,1,Zimbabwe,South Africa,1
+332,332,363,Bonobo,Omnivore,1,1,1,1,0,0,0,1,Congo,West Africa,1
+333,333,364,Chimpanzee,Omnivore,1,1,1,1,1,0,0,1,Guinea,North West Africa,1
+334,334,365,Olive_Baboon,Omnivore,1,1,0,1,1,0,0,1,Uganda,Central Africa,1
+335,335,366,Yellow_Baboon,Omnivore,1,1,1,1,1,1,0,1,Zimbabwe,South Africa,1
+336,336,367,Hamadryas_Baboon,Omnivore,1,1,0,0,0,0,0,0,Ethiopia,East Africa,0
+337,337,368,Kinda_Baboon,Frugivore,1,1,0,0,0,0,0,0,Angola,West Africa,0
+338,338,369,Guinea_Baboon,Omnivore,1,1,0,1,1,0,0,1,Senegal,North West Africa,1
+339,339,370,Chacma_Baboon,Omnivore,1,1,1,0,1,0,0,1,Lesotho,South Africa,1
+340,340,376,Milne_Edwards_s_Potto,Frugivore,1,1,0,0,0,0,0,0,Senegal,North West Africa,0
+341,341,377,East_African_Potto,Omnivore,1,1,0,0,0,0,0,0,Kenya,East Africa,0
+342,342,379,West_African_Potto,Frugivore,1,1,0,0,1,1,0,0,Gabon,West Africa,0
+343,343,380,Montagne_D__Ambre_Fork_marked_Lemur,Gummivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+344,344,381,Masoala_Fork_marked_Lemur,Gummivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+345,345,384,Pale_Fork_marked_Lemur,Gummivore,1,1,0,0,1,1,0,1,Madagascar,Madagascar,1
+346,346,385,Sambirano_Fork_marked_Lemur,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+347,347,386,Upper_Guinea_Red_Colobus,Foli-frugivore,1,1,1,1,0,0,0,1,Sierra Leone,North West Africa,1
+348,348,387,Bouvier_s_Red_Colobus,Foli-frugivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+349,349,388,Niger_Delta_Red_Colobus,Folivore,1,1,0,0,0,0,0,0,Niger,North Africa,0
+350,350,389,Foa_s_Red_Colobus,Foli-frugivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+351,351,390,Udzungwa_Red_Colobus,Foli-frugivore,1,1,1,0,0,0,0,1,Tanzania,East Africa,1
+352,352,391,Zanzibar_Red_Colobus,Foli-frugivore,1,1,1,1,0,0,0,1,Tanzania,East Africa,1
+353,353,392,Lang_s_Red_Colobus,Foli-frugivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+354,354,394,Oustalet_s_Red_Colobus,Folivore,1,1,0,0,0,0,0,0,Uganda,Central Africa,0
+355,355,396,Lomami_Red_Colobus,Foli-frugivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+356,356,397,Pennant_s_Red_Colobus,Foli-frugivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+357,357,398,Preuss_s_Red_Colobus,Folivore,1,1,1,0,0,0,0,0,Cameroon,North West Africa,0
+358,358,399,Tana_River_Red_Colobus,Folivore,1,1,1,0,0,0,0,0,Kenya,East Africa,0
+359,359,400,Semliki_Red_Colobus,Foli-frugivore,1,1,0,0,0,0,0,0,Congo,West Africa,0
+360,360,401,Temminick_s_Red_Colobus,Folivore,1,1,0,0,0,0,0,1,Senegal,North West Africa,1
+361,361,402,Ashy_Red_Colobus,Folivore,1,1,1,0,0,0,0,0,Uganda,Central Africa,0
+362,362,403,Tshuapa_Red_Colobus,Folivore,1,1,1,1,0,0,0,1,Congo,West Africa,1
+363,363,404,Miss_Waldron_s_Red_Colobus,Folivore,1,1,0,0,0,0,0,0,Côte dIvoire,North West Africa,0
+364,364,405,Equatorial_Saki,,1,1,1,1,1,1,1,1,Ecuador,Central America,1
+365,365,406,Buffy_Saki,Frugivore,1,1,1,1,1,0,0,1,Brazil,South America,1
+366,366,407,Cazuza_s_Saki,,1,1,1,1,1,1,1,1,Brazil,South America,1
+367,367,408,Golden_faced_Saki,Frugivore,1,1,1,0,0,0,0,0,Brazil,South America,0
+368,368,409,Hairy_Saki,Frugivore,1,1,0,0,0,0,0,1,Peru,South America,1
+369,369,410,Burnished_Saki,,1,1,1,1,1,1,1,1,Colombia,South America,1
+370,370,411,Gray_s_Bald_faced_Saki,Frugivore,1,1,0,0,0,0,0,0,Colombia,South America,0
+371,371,412,Isabel_s_Saki,,1,1,1,1,1,1,1,1,Colombia,South America,1
+372,372,413,Miller_s_Saki,,1,1,1,1,1,1,1,1,Colombia,South America,1
+373,373,414,Mittermeier_s_Tapajós_Saki,,1,1,1,1,1,1,1,1,Colombia,South America,1
+374,374,415,Monk_Saki,,1,1,1,1,1,1,1,1,Colombia,South America,1
+375,375,416,Napo_Saki,,1,1,1,1,1,1,1,1,Colombia,South America,1
+376,376,417,Pissinatti_s_Bald_faced_Saki,,1,1,1,1,1,1,1,1,Colombia,South America,1
+377,377,418,White_faced_saki,Frugivore,1,1,1,0,0,0,0,0,Surinam,Central America,0
+378,378,419,Rylands__Bald_faced_Saki,Frugivore,1,1,1,1,0,0,0,1,Peru,South America,1
+379,379,420,Vanzolinis_Bald_faced_Saki,,1,1,1,1,1,1,1,1,Bolivia,South America,1
+380,380,421,Madidi_Titi,Frugivore,1,1,1,0,0,0,0,0,Bolivia,South America,0
+381,381,422,Lake_Baptista_Titi,,1,1,1,1,1,1,1,1,Bolivia,South America,1
+382,382,423,Prince_Bernhard_s_Titi,,1,1,1,1,1,1,1,1,Bolivia,South America,1
+383,383,424,Brown_Titi,Frugivore,1,1,0,0,1,0,0,1,Peru,South America,1
+384,384,425,Chestnut_bellied_Titi,,1,1,1,1,1,1,1,1,Colombia,South America,1
+385,385,426,Caquetá_Titi,Omnivore,1,1,1,1,1,0,0,1,Colombia,South America,1
+386,386,427,Ashy_Titi,,1,1,1,1,1,1,1,1,Colombia,South America,1
+387,387,428,Coppery_Titi,Frugivore,1,1,1,0,1,0,0,0,Peru,South America,0
+388,388,429,Red_crowned_Titi,Frugivore,1,1,1,0,0,0,0,0,Ecuador,Central America,0
+389,389,430,White_eared_Titi,Frugivore,1,1,0,0,0,0,0,0,Ecuador,Central America,0
+390,390,431,Hoffmann_s_Titi,,1,1,1,1,1,1,1,1,Ecuador,Central America,1
+391,391,432,Milton´s_titi_monkey,,1,1,1,1,1,1,1,1,Ecuador,Central America,1
+392,392,433,Rio_Beni_Titi,Frugivore,1,1,1,0,1,0,0,1,Bolivia,South America,1
+393,393,436,Red_bellied_Titi,Foli-frugivore,1,1,1,0,1,0,0,0,Paraguay,South America,0
+394,394,438,San_Martín_Titi,Omnivore,1,1,0,0,1,1,0,1,Peru,South America,1
+395,395,441,Olalla_s_Titi,Foli-frugivore,1,1,0,0,0,0,0,1,Bolivia,South America,1
+396,396,442,Ornate_Titi,Frugivore,1,1,0,0,0,0,0,0,Bolivia,South America,0
+397,397,443,Pale_Titi,Omnivore,1,1,0,0,0,0,0,0,Bolivia,South America,0
+398,398,444,Stephen_Nash_s_Titi,,1,1,1,1,1,1,1,1,Bolivia,South America,1
+399,399,445,Toppins_Titi,Foli-frugivore,1,1,0,0,0,0,0,0,Bolivia,South America,0
+400,400,446,Urubamba_Brown_Titi,,1,1,1,1,1,1,1,1,Bolivia,South America,1
+401,401,447,Vieira_s_Titi,,1,1,1,1,1,1,1,1,Bolivia,South America,1
+402,402,448,Sumatran_Orangutan,Frugivore,1,1,1,0,1,0,0,1,Sumatra,South East Asia,1
+403,403,449,Bornean_Orangutan,Frugivore,1,1,0,0,0,0,0,1,Borneo,South East Asia,1
+404,404,450,Tapanuli_Orangutan,,1,1,1,1,1,1,1,1,Indonesia,South East Asia,1
+405,405,451,Black_and_white_Langur,Foli-frugivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+406,406,452,Miller_s_Langur,Folivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+407,407,453,Cross_marked_Langur,Foli-frugivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+408,408,454,Javan_Langur,Folivore,1,1,1,1,0,0,0,1,Indonesia,South East Asia,1
+409,409,455,Banded_Langur,Foli-frugivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+410,410,456,White_fronted_Langur,Folivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+411,411,457,Hose_s_Langur,Folivore,1,1,0,0,0,0,0,1,Indonesia,South East Asia,1
+412,412,458,Black_crested_Sumatran_Langur,Foli-frugivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+413,413,459,Mitered_Langur,Foli-frugivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+414,414,460,Natuna_Islands_Langur,,1,1,1,1,1,1,1,1,Indonesia,South East Asia,1
+415,415,461,Mentawai_Langur,Foli-frugivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+416,416,462,Maroon_Langur,Foli-frugivore,1,1,1,1,0,0,0,1,Malaysia,South East Asia,1
+417,417,463,Sabah_Grizzled_Langur,Foli-frugivore,1,1,1,1,0,0,0,1,Malaysia,South East Asia,1
+418,418,464,Pale_thighed_Langur,Foli-frugivore,1,1,0,0,0,0,0,0,Malaysia,South East Asia,0
+419,419,465,Siberut_Langur,Foli-frugivore,1,1,0,0,0,0,0,0,Malaysia,South East Asia,0
+420,420,466,Black_Sumatran_Langur,Foli-frugivore,1,1,0,0,0,0,0,0,Malaysia,South East Asia,0
+421,421,467,Thomas_s_Langur,Foli-frugivore,1,1,1,1,1,0,0,1,Malaysia,South East Asia,1
+422,422,468,Olive_Colobus,Folivore,1,1,1,1,0,0,0,0,Côte dIvoire,North West Africa,0
+423,423,469,Greater_Bamboo_Lemur,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+424,424,470,Silky_Sifaka,Foli-frugivore,1,1,1,1,0,0,0,1,Madagascar,Madagascar,1
+425,425,471,Coquerel_s_Sifaka,Foli-frugivore,1,1,1,0,0,0,0,0,Madagascar,Madagascar,0
+426,426,472,Crowned_Sifaka,Folivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
+427,427,473,Decken_s_Sifaka,,1,1,1,1,1,1,1,1,Madagascar,Madagascar,1
+428,428,474,Diademed_Sifaka,Foli-frugivore,1,1,1,1,0,0,0,1,Madagascar,Madagascar,1
+429,429,475,Milne_Edwards_s_Sifaka,Foli-frugivore,1,1,1,0,1,0,0,0,Madagascar,Madagascar,0
+430,430,476,Perrier_s_Sifaka,Foli-frugivore,1,1,1,1,0,0,0,1,Madagascar,Madagascar,1
+431,431,477,Tattersall_s_Sifaka,Foli-frugivore,1,1,1,1,0,0,0,0,Madagascar,Madagascar,0
+432,432,478,Verreaux_s_Sifaka,Foli-frugivore,1,1,1,1,0,0,0,0,Madagascar,Madagascar,0
+433,433,479,Grey_shanked_Douc,Folivore,1,1,0,0,0,0,0,0,Vietnam,South East Asia,0
+434,434,480,Red_shanked_Douc,Folivore,1,1,1,0,0,0,0,0,Vietnam,South East Asia,0
+435,435,481,Black_shanked_Douc,Foli-frugivore,1,1,1,0,0,0,0,1,Vietnam,South East Asia,1
+436,436,482,Tonkin_Snub_nosed_Monkey,Foli-frugivore,1,1,1,1,0,0,0,1,Vietnam,South East Asia,1
+437,437,483,Yunnan_Snub_nosed_Monkey,Folivore,1,1,0,0,0,0,0,1,China,East Asia,1
+438,438,484,Guizhou_Snub_nosed_Monkey,Folivore,1,1,0,0,0,0,0,0,China,East Asia,0
+439,439,485,Golden_Snub_nosed_Monkey,Folivore,1,1,1,0,0,0,0,1,China,East Asia,1
+440,440,486,Stryker_s_Snub_nosed_Monkey,Folivore,1,1,0,0,0,0,0,0,China,East Asia,0
+441,441,487,Kipunji,Omnivore,1,1,1,0,0,0,0,1,Tanzania,East Africa,1
+442,442,488,Pied_Tamarin,Frugivore,1,1,1,0,0,1,0,0,Brazil,South America,0
+443,443,489,Geoffroy_s_Tamarin,Omnivore,1,1,0,0,1,1,0,1,Panama,Central America,1
+444,444,490,Emperor_Tamarin,Omnivore,1,1,0,0,0,0,0,0,Colombia,South America,0
+445,445,491,Mottled_face_Tamarin,Frugivore,1,1,0,0,0,0,0,0,Colombia,South America,0
+446,446,492,Red_bellied_Tamarin,Omnivore,1,1,0,0,1,1,1,1,Bolivia,South America,1
+447,447,493,White_footed_Tamarin,Frugivore,1,1,1,0,0,0,0,1,Colombia,South America,1
+448,448,494,Martin_s_Bare_faced_Tamarin,Frugivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+449,449,495,Midas_Tamarin,Omnivore,1,1,0,0,1,0,0,1,Guiana,South America,1
+450,450,496,Mustached_Tamarin,Omnivore,1,1,0,0,1,1,1,1,Peru,South America,1
+451,451,497,Western_Black_handed_Tamarin,Frugivore,1,1,0,0,1,1,0,0,Brazil,South America,0
+452,452,498,Cotton_top_Tamarin,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+453,453,499,Eastern_Black_handed_Tamarin,,1,1,1,1,1,1,1,1,Brazil,South America,1
+454,454,500,Black_capped_Squirrel_Monkey,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+455,455,501,Humboldt_s_Squirrel_Monkey,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+456,456,502,Collins'_Squirrel_Monkey,,1,1,1,1,1,1,1,1,Brazil,South America,1
+457,457,503,Ecuadorian_Squirrel_Monkey,,1,1,1,1,1,1,1,1,Ecuador,Central America,1
+458,458,504,Central_American_Squirrel_Monkey,Omnivore,1,1,0,0,0,0,0,0,Panama,Central America,0
+459,459,506,Guianan_Squirrel_Monkey,Frugivore,1,1,1,0,0,0,0,0,Surinam,Central America,0
+460,460,507,Golden_backed_Squirrel_Monkey,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+461,461,508,Black_headed_Squirrel_Monkey,Omnivore,1,1,0,0,0,0,0,0,Guiana,South America,0
+462,462,509,Guianan_Brown_Capuchin,Omnivore,1,1,1,1,1,0,0,0,Venezuela,South America,0
+463,463,510,Hooded_Capuchin,Omnivore,1,1,1,0,1,0,1,1,Brazil,South America,1
+464,464,511,Blond_Capuchin,Omnivore,1,1,1,1,1,0,0,1,Brazil,South America,1
+465,465,512,Bearded_Capuchin,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+466,466,513,Large_headed_Capuchin,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+467,467,514,Black_horned_Capuchin,Omnivore,1,1,0,0,1,0,1,1,Brazil,South America,1
+468,468,515,Crested_Capuchin,Frugivore,1,1,0,1,1,0,0,1,Brazil,South America,1
+469,469,516,Yellow_breasted_Capuchin,Omnivore,1,1,0,0,0,0,0,0,Brazil,South America,0
+470,470,517,Bioko_Squirrel_Galago,Frugivore,1,1,0,0,0,0,0,0,Angola,West Africa,0
+471,471,519,Cross_River_Squirrel_Galago,Insectivore,1,1,0,0,0,0,0,0,Cameroon,North West Africa,1
+472,472,520,Gabon_Squirrel_Galago,Frugivore,1,1,0,0,1,0,0,1,Gabon,West Africa,1
+473,473,521,Makandé_squirrel_galago,,1,1,1,1,1,1,1,1,Gabon,West Africa,1
+474,474,522,Chamba_Sacred_Langur,Foli-frugivore,1,1,0,0,0,0,0,0,India,South East Asia,0
+475,475,523,Bengal_Sacred_Langur,Foli-frugivore,1,1,1,1,0,0,0,1,India,South East Asia,1
+476,476,524,Terai_Sacred_Langur,Folivore,1,1,1,0,1,0,0,1,India,South East Asia,1
+477,477,525,Malabar_Sacred_Langur,Folivore,1,1,1,0,0,0,0,1,India,South East Asia,1
+478,478,526,Nilgiri_Langur,Foli-frugivore,1,1,1,1,0,0,0,0,China,East Asia,0
+479,479,527,Tufted_Gray_Langur,Foli-frugivore,1,1,1,0,0,0,0,0,China,East Asia,0
+480,480,528,Nepal_Sacred_Langur,Foli-frugivore,1,1,1,0,1,0,0,0,Bangladesh,South East Asia,0
+481,481,529,Purple_faced_Langur,Frugivore,1,1,0,0,0,0,0,0,India,South East Asia,0
+482,482,531,Pig_tailed_Langur,Folivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,0
+483,483,532,Siamang,Foli-frugivore,1,1,0,0,0,0,0,0,Sumatra,South East Asia,0
+484,484,533,Dian_s_Tarsier,Insectivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,1
+485,485,534,Makassar_Tarsier,,1,1,1,1,1,1,1,1,Indonesia,South East Asia,1
+486,486,535,Lariang_Tarsier,Insectivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,1
+487,487,536,Peleng_Tarsier,Insectivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,1
+488,488,537,Sulawesi_Mountain_Tarsier,Insectivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,1
+489,489,538,Great_Sangihe_Tarsier,Insectivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,1
+490,490,539,Gursky's_Spectral_Tarsier ,,1,1,1,1,1,1,1,1,Indonesia,South East Asia,1
+491,491,540,Jatna's_Tarsier,,1,1,1,1,1,1,1,1,Indonesia,South East Asia,1
+492,492,541,Selayar_Tarsier,Insectivore,1,1,0,0,1,0,0,0,Indonesia,South East Asia,1
+493,493,542,Siau_Island_Tarsier,Insectivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,1
+494,494,543,Wallace_s_Tarsier,Insectivore,1,1,0,0,0,0,0,0,Indonesia,South East Asia,1
+495,495,544,Gelada,Folivore,1,1,1,1,1,1,1,1,Ethiopia,East Africa,1
+496,496,545,East_Javan_Langur,Folivore,1,1,0,0,0,0,0,0,Java,South East Asia,0
+497,497,546,Tenasserim_Langur,,1,1,1,1,1,1,1,1,Thailand,South East Asia,1
+498,498,547,Indochinese_Gray_Langur,Folivore,1,1,1,0,0,0,0,1,India,South East Asia,1
+499,499,550,Silvered_Langur,Folivore,1,1,0,0,0,0,0,0,Malaysia,South East Asia,0
+500,500,551,Delacour_s_Langur,Folivore,1,1,0,0,0,0,0,0,Vietnam,South East Asia,0
+501,501,552,Black_Langur,,1,1,1,1,1,1,1,1,Laos,South East Asia,1
+502,502,553,Francois_s_Langur,Folivore,1,1,0,0,0,0,0,0,China,East Asia,0
+503,503,554,Golden_Langur,Folivore,1,1,1,1,0,0,0,1,India,South East Asia,1
+504,504,555,Germain_s_Langur,Folivore,1,1,0,0,0,0,0,0,Thailand,South East Asia,0
+505,505,556,Hatinh_Langur,Folivore,1,1,0,0,0,0,0,0,Vietnam,South East Asia,0
+506,506,557,Laos_Langur,Folivore,1,1,0,0,0,0,0,0,Laos,South East Asia,0
+507,507,558,White_headed_Langur,Folivore,1,1,1,1,0,0,0,0,China,East Asia,0
+508,508,559,Annamese_Langur,Folivore,1,1,0,0,0,0,0,0,Laos,South East Asia,0
+509,509,560,West_Javan_Langur,Folivore,1,1,0,0,0,0,0,0,Java,South East Asia,0
+510,510,561,Dusky_Langur,Folivore,1,1,0,0,0,0,0,0,Bangladesh,South East Asia,0
+511,511,562,Phayre_s_Langur,Folivore,1,1,0,0,0,0,0,0,India,South East Asia,0
+512,512,563,Capped_Langur,Folivore,1,1,0,0,0,0,0,0,Bangladesh,South East Asia,0
+513,513,564,Cat_Ba_Langur,Folivore,1,1,0,0,0,0,0,0,Vietnam,South East Asia,0
+514,514,565,Selangor_Silvery_Langur,Folivore,1,1,0,0,0,0,0,0,Malaysia,South East Asia,0
+515,515,566,Shortridge_s_Langur,Folivore,1,1,0,0,0,0,0,0,Birmania,South East Asia,0
+516,516,567,Red_Ruffed_Lemur,Frugivore,1,1,1,0,0,0,0,0,Madagascar,Madagascar,0
+517,517,568,Black_and_white_Ruffed_Lemur,Frugivore,1,1,0,0,0,0,0,0,Madagascar,Madagascar,0
